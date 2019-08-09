@@ -1,4 +1,4 @@
-# docker-php-postgres-nginx
+# Stack Sudo Cloud
 Docker Compose para ambiente, com postgresql, reddis, nginx e php-fpm
 
 # Pré-requisitos
